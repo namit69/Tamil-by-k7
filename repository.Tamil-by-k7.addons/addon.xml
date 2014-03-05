@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Tamil-by-k7.addons" name="Tamil-by-k7 XBMC Addons" version="1.0.1" provider-name="Tamil-by-k7">
+	<extension	point="xbmc.addon.repository" name="Tamil-by-k7 XBMC Addon Repository">
+		<info compressed="false">https://github.com/namit69/Tamil-by-k7/raw/master/addons.xml</info>
+		<checksum>https://github.com/namit69/Tamil-by-k7/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/namit69/Tamil-by-k7/raw/master/data/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Tamil-by-k7 Addons</summary>
+		<description>Download and install Tamil-by-k7 Addons</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
